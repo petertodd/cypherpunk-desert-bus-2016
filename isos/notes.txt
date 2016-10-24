@@ -1,0 +1,3 @@
+Created by 'cat /dev/sr0 > <file>.iso'
+
+Verified by running 'sha256sum /dev/sr0' on both my Thinkpad T520, and the Thinkpad T530 purchased for the ceremony.
