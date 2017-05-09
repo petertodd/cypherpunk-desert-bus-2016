@@ -4,8 +4,7 @@ This Git repository commits to all digital evidence collected by Peter Todd
 during the operation of the "Cypherpunk Desert Bus" station of the Zcash 1.0
 "Sprout" trusted setup ceremony.
 
-This repository doesn't by itself contain the files. Rather, [Git
-annex](https://git-annex.branchable.com/) has been used to cryptographically
+This repository doesn't by itself contain the files. Rather, [git-annex](https://git-annex.branchable.com/) has been used to cryptographically
 commit to those files via SHA256 hash. Additionally,
 [OpenTimestamps](https://opentimestamps.org) has been used to [timestamp
 commits](https://petertodd.org/2016/opentimestamps-git-integration) in this
